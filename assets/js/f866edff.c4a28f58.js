@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7554],{9699:function(s){s.exports=JSON.parse('{"label":"standards","permalink":"/hashdit/blog/tags/standards","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);
