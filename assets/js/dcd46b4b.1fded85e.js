@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1560],{1661:function(s){s.exports=JSON.parse('{"label":"opBNB","permalink":"/hashdit/blog/tags/op-bnb","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);
